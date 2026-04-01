@@ -2,7 +2,7 @@
 
 **Last Updated: April 2, 2026**
 
-Thank you for choosing **Stall Cashier** (Chinese name: **摆摊记账**). We are committed to providing you with a powerful POS and management tool while ensuring your business data remains private and secure. This policy explains how we handle your information.
+Thank you for choosing **Stall Cashier**. We are committed to providing you with a powerful POS and management tool while ensuring your business data remains private and secure. This policy explains how we handle your information.
 
 ---
 
@@ -66,11 +66,11 @@ If you have any questions about this Privacy Policy, please contact us at:
 ---
 ---
 
-# 摆摊记账 (Stall Cashier) 隐私政策 - 中文
+# 摆摊记账 隐私政策 - 中文
 
 **最近更新日期：2026年4月2日**
 
-感谢您选择 **摆摊记账** (英文名: **Stall Cashier**)。我们深知经营数据对您的重要性，因此保护您的隐私是我们开发这款收银应用的核心准则。
+感谢您选择 **摆摊记账**。我们深知经营数据对您的重要性，因此保护您的隐私是我们开发这款收银应用的核心准则。
 
 ---
 
