@@ -26,7 +26,7 @@ To sync your stall data across multiple devices (e.g., between your iPhone and i
 * You can disable iCloud sync for Stall Cashier at any time in iOS System Settings.
 
 ### 2.3 Payments and Pro Membership
-Stall Cashier offers "Pro" features via **Apple StoreKit**:
+Stall Cashier offers "Pro/Ultra" features via **Apple StoreKit**:
 * All financial transactions are handled by Apple. We do not collect credit card numbers, real names, or billing addresses.
 * We only receive an anonymous receipt from Apple to verify your subscription status.
 
@@ -94,7 +94,7 @@ If you have any questions about this Privacy Policy, please contact us at:
 * 您可以随时在系统设置中关闭本应用的 iCloud 同步功能。
 
 ### 2.3 订阅与支付
-应用提供 Pro 会员服务，所有支付流程通过 **Apple App Store** 完成：
+应用提供 Pro/Ultra 等订阅服务，所有支付流程通过 **Apple App Store** 完成：
 * 我们**不会**获取您的支付方式、真实姓名或联系电话。
 * 我们仅接收 Apple 提供的匿名交易收据，用于激活高级功能。
 
