@@ -1,13 +1,13 @@
-# Stall Cashier Privacy Policy - English
+# Mochi POS Privacy Policy - English
 
 **Last Updated: April 2, 2026**
 
-Thank you for choosing **Stall Cashier**. We are committed to providing you with a powerful POS and management tool while ensuring your business data remains private and secure. This policy explains how we handle your information.
+Thank you for choosing **Mochi POS**. We are committed to providing you with a powerful POS and management tool while ensuring your business data remains private and secure. This policy explains how we handle your information.
 
 ---
 
 ## 1. Core Principles
-Stall Cashier is built on the principle of **"Your Data, Your Control."**
+Mochi POS is built on the principle of **"Your Data, Your Control."**
 * **Local First:** All business data (orders, inventory, transactions) is stored primarily on your device.
 * **No Central Server:** We do not maintain a custom backend. We cannot access your business secrets, pricing, or customer lists.
 * **Privacy by Design:** We do not track your business activities or sell any data to third parties.
@@ -20,20 +20,20 @@ Stall Cashier is built on the principle of **"Your Data, Your Control."**
 Everything you input—including product photos, inventory levels, and sales records—is saved **exclusively on your local iOS/iPadOS device**. We have no way to view, backup, or restore this data for you.
 
 ### 2.2 iCloud Synchronization
-To sync your stall data across multiple devices (e.g., between your iPhone and iPad), Stall Cashier uses Apple's **CloudKit (Private Database)**:
+To sync your stall data across multiple devices (e.g., between your iPhone and iPad), Mochi POS uses Apple's **CloudKit (Private Database)**:
 * Your data is encrypted and stored in your **private iCloud container**.
 * As developers, we have **zero access** to your private cloud container. Only you, authenticated by your Apple ID, can access this data.
-* You can disable iCloud sync for Stall Cashier at any time in iOS System Settings.
+* You can disable iCloud sync for Mochi POS at any time in iOS System Settings.
 
 ### 2.3 Payments and Pro Membership
-Stall Cashier offers "Pro/Ultra" features via **Apple StoreKit**:
+Mochi POS offers "Pro/Ultra" features via **Apple StoreKit**:
 * All financial transactions are handled by Apple. We do not collect credit card numbers, real names, or billing addresses.
 * We only receive an anonymous receipt from Apple to verify your subscription status.
 
 ---
 
 ## 3. System Permissions
-To provide its core POS features, Stall Cashier requests the following permissions:
+To provide its core POS features, Mochi POS requests the following permissions:
 * **Camera:** Used to scan barcodes or QR codes for quick product lookup.
 * **Face ID / Touch ID:** Used for the "App Lock" feature to secure your financial data.
 * **Bluetooth:** Used to discover and connect to ESC/POS thermal printers for receipt printing.
